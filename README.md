@@ -8,6 +8,11 @@ This week you are tasked with creating a discord bot that can complete the follo
 - Write a command that displays the total number of users on the server and lists how many of them are bots.
 - Calculate at what times of day the server is most active.
 
+# Additional Task
+- Write a command that gives the weather forecast for a given city (You'll want to look into weather API's)
+- Write a command that allows you to bind text or images to some test. An example would be `create bob do the thing` whenever `bob` is typed into the chat the bot would now respond with `do the thing`. You should also have a way of deleting these.
+- Write a command that returns the first image in google images for a given keyword (Make sure you are keeping things safe for work)
+
 # Libraries to use
 For this week we suggest working in node.js or Python. For node.js [discord.js](https://discord.js.org/#/) is one of the simplest libraries to use. For python [discord.py](https://github.com/Rapptz/discord.py) is a simple library for writing bots. Both libraries provide basic starting examples which would be a good idea to base your code of.
 
