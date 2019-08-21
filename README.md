@@ -24,7 +24,7 @@ For this week we suggest working in node.js or Python. For node.js [discord.js](
 5. Give your application whatever name you want (it will be renamed to bot-<your username> when it joins the server)
 6. Click the bot section of the menu and hit the `Add Bot` button.
 7. The user token listed there will be needed in your code. Check out the examples for the listed libraries to see where to put it.
-8. Click the OAuth2 section and select `bot` from the list of scopes. Then copy the link it generates and DM it to @unreturnable#0001 or another member of committee so that it can be added to the server.
+8. Click the OAuth2 section and select `bot` from the list of scopes. Then copy the link it generates and DM it to a member of committee so that it can be added to the server.
 
 # Rules for having bots on the swan_hack server
 1. Your bot must only respond to your messages
